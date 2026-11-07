@@ -7,7 +7,7 @@
 
 ## About Me
 
-I'm a Hive Helsinki (42 School) alumnus. I bring more than seven years of experience working within the Colombian and Spanish banking industries, in financial analysis, credit products and customer operations. In that work I evaluated risk, spotted irregularities, handled confidential information and explained complex issues clearly. These are the same skills security operations depends on.
+I'm a Hive Helsinki (42 School) alumni. I bring more than seven years of experience working within the Colombian and Spanish banking industries, in financial analysis, credit products and customer operations. In that work I evaluated risk, spotted irregularities, handled confidential information and explained complex issues clearly. These are the same skills security operations depends on.
 
 Since moving to Finland, I've built a technical foundation in programming, networking, system administration and security operations. I've trained with Hive Helsinki, the University of Helsinki, LetsDefend, Metropolia UAS and Cisco Networking Academy. I document my practical work in the labs below.
 
@@ -65,7 +65,7 @@ To join a Security Operations Center as a **Tier 1 SOC Analyst**, contributing t
 
 | Programme | Institution | Status |
 |---|---|---|
-| Computer Science (peer-to-peer programme) | Hive Helsinki — 42 Network | Alumnus |
+| Bootcamp (peer-to-peer programme) | Hive Helsinki — 42 Network | Alumni |
 | Full Stack Open | University of Helsinki | Completed |
 
 ## Projects & Practical Labs
@@ -105,5 +105,5 @@ I treat every alert as a question that needs evidence before it gets an answer. 
 
 ---
 
-**Languages:** Spanish (native) · English (professional) · Finnish (YOUR-LEVEL)
+**Languages:** Spanish C2 · English C2 · Finnish A2.2 · Portuguese B2
 **Current focus:** SOC Operations · SIEM · Threat Detection · Incident Investigation
