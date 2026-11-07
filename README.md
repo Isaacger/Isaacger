@@ -105,5 +105,5 @@ I treat every alert as a question that needs evidence before it gets an answer. 
 
 ---
 
-**Languages:** Spanish C2 · English C2 · Finnish A2.2 · Portuguese B2
+**Languages:** Spanish C2 · English C2 · Finnish A2.2 · Portuguese B2  
 **Current focus:** SOC Operations · SIEM · Threat Detection · Incident Investigation
