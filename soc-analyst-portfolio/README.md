@@ -53,5 +53,4 @@ SIEM: Splunk, Microsoft Sentinel, Wazuh · Network: Wireshark, Zeek · Endpoint:
 All work was performed in lab/training environments. IOCs are defanged. No live malware, real customer data or employer data is stored in this repository.
 
 ## 📫 Contact
-- LinkedIn: _your-link_
-- Email: _your-email_
+- LinkedIn: www.linkedin.com/in/isaacdearcosalcedo
