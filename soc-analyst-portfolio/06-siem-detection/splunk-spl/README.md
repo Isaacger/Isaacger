@@ -1,0 +1,72 @@
+# Splunk – SPL Detections
+
+| Field | Value |
+|---|---|
+| **Category** | SIEM Detection Engineering |
+| **Platform / Source** | _e.g. LetsDefend, TryHackMe, CyberDefenders, BTLO, home lab_ |
+| **Date completed** | YYYY-MM-DD |
+| **Status** | 🔲 Not started |
+| **Difficulty** | Easy / Medium / Hard |
+| **Tools used** | Splunk, SPL, BOTS dataset |
+| **MITRE ATT&CK** | _e.g. T1566.001 – Spearphishing Attachment_ |
+| **Verdict** | True Positive / False Positive / Benign |
+
+---
+
+## 1. Executive Summary
+_2–4 sentences a manager could read: what happened, impact, and outcome._
+
+## 2. Scenario / Alert Details
+- **Alert name / rule:**
+- **Severity:**
+- **Trigger time (UTC):**
+- **Affected host(s) / user(s):**
+- **Source → Destination:**
+
+## 3. Investigation Steps
+1. _What you checked first and why_
+2. _Queries / filters / commands you ran (put full queries below)_
+3. _Pivot points and what you found_
+
+```
+# Paste key queries, commands or filters here
+```
+
+## 4. Evidence & Screenshots
+| # | Description | File |
+|---|---|---|
+| 1 | | `screenshots/01-.png` |
+
+## 5. Indicators of Compromise (IOCs)
+| Type | Value (defanged) | Context | Reputation (VT / AbuseIPDB) |
+|---|---|---|---|
+| IP | 192.0.2[.]10 | | |
+| Domain | example[.]com | | |
+| Hash (SHA256) | | | |
+| Email / URL | hxxp://... | | |
+
+## 6. Timeline (UTC)
+| Time | Event | Source |
+|---|---|---|
+| | | |
+
+## 7. Analysis & Findings
+_What actually happened? Tie evidence to conclusions. Map each behaviour to MITRE ATT&CK._
+
+## 8. Verdict & Justification
+_TP / FP and the reasoning behind it._
+
+## 9. Response & Containment
+- [ ] _e.g. Isolate host_
+- [ ] _e.g. Block IOC at firewall / email gateway_
+- [ ] _e.g. Reset credentials_
+- [ ] _Escalate to Tier 2 / IR_
+
+## 10. Detection & Prevention Recommendations
+_New/tuned detection rules, hardening, user awareness._
+
+## 11. Lessons Learned
+_What you learned, what you'd do faster next time._
+
+## 12. References
+-
