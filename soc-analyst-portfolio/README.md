@@ -1,4 +1,4 @@
-# 🛡️ SOC Analyst Portfolio
+# 🛡️ myPortfolio
 
 Hands-on blue-team investigations, detections and automation, documented the way a SOC analyst would report them.
 
