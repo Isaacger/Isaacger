@@ -1,6 +1,9 @@
 # Isaac De Arco — Aspiring SOC Analyst
 
-<a href="www.linkedin.com/in/isaacdearcosalecdo"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<p>
+  <a href="https://www.linkedin.com/in/isaacdearcosalcedo/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 <a href="https://github.com/Isaacger/Isaacger"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 **Helsinki, Finland** · Blue Team · Security Monitoring · Incident Investigation
